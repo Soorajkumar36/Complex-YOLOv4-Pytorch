@@ -4,5 +4,5 @@ easydict
 opencv-python
 numpy
 torchsummary
-tensorboard
+tensorboard<2.19
 scikit-learn
