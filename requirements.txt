@@ -1,8 +1,8 @@
 torch
 torchvision
-easydict==1.9
+easydict
 opencv-python
 numpy
-torchsummary==1.5.1
-tensorboard==2.2.1
+torchsummary
+tensorboard
 scikit-learn
