@@ -1,7 +1,7 @@
 torch
 torchvision
 easydict==1.9
-opencv-python==4.2.0.34
+opencv-python
 numpy==1.22.0
 torchsummary==1.5.1
 tensorboard==2.2.1
